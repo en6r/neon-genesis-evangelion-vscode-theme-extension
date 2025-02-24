@@ -1,0 +1,21 @@
+{
+  "name": "engr-eva01-berserk-theme",
+  "displayName": "eva unit-01 berserk theme",
+  "description": "EVA unit-01 berserk mode theme for VScode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EVA-01 Berserk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EVA-01 Berserk Theme-color-theme.json"
+      }
+    ]
+  }
+}
