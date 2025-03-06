@@ -3,6 +3,10 @@
 	"displayName": "EVA-01 Berserk",
 	"version": "1.0.0",
 	"publisher": "engr",
+	"window.titleBarStyle": "custom",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairsHorizontal": true,
+	"editor.guides.bracketPairs": "active",
 	"colors": {
 		"editor.background": "#1c182c",
 		"editor.foreground": "#13ff1e",
@@ -14,14 +18,16 @@
 		"activityBarBadge.foreground": "#ffffff",
 
 		"activityBar.background": "#1d1a2f",
-		"activityBar.foreground": "#8bd450",
+		"activityBar.foreground": "#13ff1e",
 		"activityBar.inactiveForeground": "#734f9a",
-		"activityBar.border": "#965fd4",
+		"activityBar.activeBorder": "#13ff1e",
+		"activityBar.border": "#13ff1e",
+		"activityBar.activeFocusBorder": "#FF0000",
 
 		"sideBarTitle.foreground": "#965fd4",
 		"sideBar.foreground": "#965fd4",
 		"sideBar.background": "#1d1a2f",
-		"sideBar.border": "#965fd4",
+		"sideBar.border": "#13ff1e",
 
 		"tab.hoverForeground": "#ec0000",
 		"tab.activeForeground": "#13ff1e",
@@ -29,7 +35,7 @@
 		"tab.inactiveForeground": "#13ff1e",
 		"tab.inactiveBackground": "#413c5e",
 		"tab.hoverBackground": "#13ff1e",
-		"tab.border": "#1d1a2f",
+		"tab.border": "#13ff1e",
 
 
 		"editorGroupHeader.tabsBackground": "#413c5e",
@@ -38,8 +44,24 @@
 		"button.foreground": "#000000",
 
 		// adjusts highligtht color for paired brackets 
-		"editorBracketMatch.background": "#ec0000",
-		"editorBracketMatch.border": "#ec0000",
+		"editorBracketMatch.background": "#965fd4",
+		"editorBracketMatch.border": "#965fd4",
+
+		// why is this shit not working
+		"editorBracketPairGuide.activeBackground1": "#07e9de",
+		"editorBracketPairGuide.background1": "#07e9de",
+		"editorBracketPairGuide.activeBackground2": "#e907b1",
+		"editorBracketPairGuide.background2": "#e907b1",
+		"editorBracketPairGuide.activeBackground3": "#f0e00b9d",
+		"editorBracketPairGuide.background3": "#f0e00b9d",
+
+		"titleBar.activeBackground": "#1d1a2f",
+		"titleBar.activeForeground": "#13ff1e",
+		"titleBar.inactiveBackground": "#1d1a2f",
+		"titleBar.inactiveForeground": "#13ff1e",
+		"titleBar.border": "#13ff1e",
+		"menubar.selectionBackground": "#965fd4",
+		"menubar.selectionForeground": "#734f9a"
 	},
 	"tokenColors": [
 		{
