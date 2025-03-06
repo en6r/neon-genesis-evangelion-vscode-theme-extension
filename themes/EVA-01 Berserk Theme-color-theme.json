@@ -35,8 +35,11 @@
 		"editorGroupHeader.tabsBackground": "#413c5e",
 
 		"button.background": "#13ff1e",
-		"button.foreground": "#000000"
+		"button.foreground": "#000000",
 
+		// adjusts highligtht color for paired brackets 
+		"editorBracketMatch.background": "#ec0000",
+		"editorBracketMatch.border": "#ec0000",
 	},
 	"tokenColors": [
 		{
