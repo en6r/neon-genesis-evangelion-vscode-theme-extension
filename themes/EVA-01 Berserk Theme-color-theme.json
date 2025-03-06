@@ -10,6 +10,9 @@
   		"editor.bracketPairColorization.enabled": false
 	},
 	"colors": {
+
+		"focusBorder": "#88ff88",
+
 		"editor.background": "#1c182c",
 		"editor.foreground": "#13ff1e",
 		"editorCursor.foreground": "#ec0000",
@@ -31,12 +34,39 @@
 		"sideBar.background": "#1d1a2f",
 		"sideBar.border": "#13ff1e",
 		"sideBarSectionHeader.border": "#13ff1e",
+
+		/* mess with these */
+		"sideBar.dropBackground": "#0c0c0c",
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.foreground": "#00cc00",
+		/* mess with these */
+
 		"list.activeSelectionBackground": "#965fd4", 
 		"list.activeSelectionForeground": "#ffffff",
 		"list.focusAndSelectionOutline": "#e2e3e2",
 		"list.activeSelectionIconForeground": "#13ff1e", 
 		"list.focusOutline": "#13ff1e",
 		"list.inactiveSelectionForeground": "#13ff1e",
+
+		/* mess with these */
+		"list.deemphasizedForeground": "#008800",
+		"list.dropBackground": "#0c0c0c",
+		"list.errorForeground": "#b40000",
+		"list.filterMatchBackground": "#420000",
+		"list.focusBackground": "#0c0c0c",
+		"list.focusForeground": "#00cc00",
+		"list.highlightForeground": "#88ff88",
+		"list.hoverBackground": "#004400",
+		"list.hoverForeground": "#ddffdd",
+		"list.inactiveFocusBackground": "#080808",
+		"list.inactiveSelectionBackground": "#002200",
+		"list.invalidItemForeground": "#b40000",
+		"list.warningForeground": "#cccc00",
+		"listFilterWidget.background": "#000000",
+		"listFilterWidget.noMatchesOutline": "#003300",
+		"listFilterWidget.outline": "#00cc00",
+		/* mess with these */
+
 
 		"tab.hoverForeground": "#ec0000",
 		"tab.activeForeground": "#13ff1e",
@@ -320,7 +350,13 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f80303"
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"scope": "meta.member.access.python",
+			"settings": {
+			  "foreground": "#b443ca"
 			}
 		},
 		{
