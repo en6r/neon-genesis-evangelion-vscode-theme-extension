@@ -3,10 +3,12 @@
 	"displayName": "EVA-01 Berserk",
 	"version": "1.0.0",
 	"publisher": "engr",
-	"window.titleBarStyle": "custom",
-	"editor.bracketPairColorization.enabled": true,
-	"editor.guides.bracketPairsHorizontal": true,
-	"editor.guides.bracketPairs": "active",
+	"settings": {
+		"window.titleBarStyle": "custom",
+		"editor.guides.bracketPairsHorizontal": true,
+		"editor.guides.bracketPairs": "active",
+  		"editor.bracketPairColorization.enabled": false
+	},
 	"colors": {
 		"editor.background": "#1c182c",
 		"editor.foreground": "#13ff1e",
@@ -28,6 +30,13 @@
 		"sideBar.foreground": "#965fd4",
 		"sideBar.background": "#1d1a2f",
 		"sideBar.border": "#13ff1e",
+		"sideBarSectionHeader.border": "#13ff1e",
+		"list.activeSelectionBackground": "#965fd4", 
+		"list.activeSelectionForeground": "#ffffff",
+		"list.focusAndSelectionOutline": "#e2e3e2",
+		"list.activeSelectionIconForeground": "#13ff1e", 
+		"list.focusOutline": "#13ff1e",
+		"list.inactiveSelectionForeground": "#13ff1e",
 
 		"tab.hoverForeground": "#ec0000",
 		"tab.activeForeground": "#13ff1e",
@@ -37,23 +46,20 @@
 		"tab.hoverBackground": "#13ff1e",
 		"tab.border": "#13ff1e",
 
-
 		"editorGroupHeader.tabsBackground": "#413c5e",
 
 		"button.background": "#13ff1e",
 		"button.foreground": "#000000",
 
-		// adjusts highligtht color for paired brackets 
+		"editorBracketHighlight.foreground1": "#00cc00",
+		"editorBracketHighlight.foreground2": "#00cc00",
+		"editorBracketHighlight.foreground3": "#00cc00",
+		"editorBracketHighlight.foreground4": "#00cc00",
+		"editorBracketHighlight.foreground5": "#00cc00",
+		"editorBracketHighlight.foreground6": "#00cc00",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#b40000",
 		"editorBracketMatch.background": "#965fd4",
 		"editorBracketMatch.border": "#965fd4",
-
-		// why is this shit not working
-		"editorBracketPairGuide.activeBackground1": "#07e9de",
-		"editorBracketPairGuide.background1": "#07e9de",
-		"editorBracketPairGuide.activeBackground2": "#e907b1",
-		"editorBracketPairGuide.background2": "#e907b1",
-		"editorBracketPairGuide.activeBackground3": "#f0e00b9d",
-		"editorBracketPairGuide.background3": "#f0e00b9d",
 
 		"titleBar.activeBackground": "#1d1a2f",
 		"titleBar.activeForeground": "#13ff1e",
