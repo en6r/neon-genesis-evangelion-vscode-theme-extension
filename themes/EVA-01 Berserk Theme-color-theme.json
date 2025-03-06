@@ -15,10 +15,14 @@
 
 		"editor.background": "#1c182c",
 		"editor.foreground": "#13ff1e",
-		"editorCursor.foreground": "#ec0000",
-		"editor.selectionBackground": "#5a0101",
-		"editor.lineHighlightBackground": "#5a0909",
+		// "editorCursor.foreground": "#ec0000",
+		// "editor.selectionBackground": "#5a0101",
+		// "editor.lineHighlightBackground": "#5a0909",
+		"editorCursor.foreground": "#13ff1e",
+		"editor.selectionBackground": "#174f19",
+		"editor.lineHighlightBackground": "#174f19",
 
+		
 		"activityBarBadge.background": "#965fd4",
 		"activityBarBadge.foreground": "#ffffff",
 
@@ -88,8 +92,8 @@
 		"editorBracketHighlight.foreground5": "#00cc00",
 		"editorBracketHighlight.foreground6": "#00cc00",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#b40000",
-		"editorBracketMatch.background": "#965fd4",
-		"editorBracketMatch.border": "#965fd4",
+		"editorBracketMatch.background": "#13ff1e",
+		"editorBracketMatch.border": "#13ff1e",
 
 		"titleBar.activeBackground": "#1d1a2f",
 		"titleBar.activeForeground": "#13ff1e",
@@ -97,7 +101,19 @@
 		"titleBar.inactiveForeground": "#13ff1e",
 		"titleBar.border": "#13ff1e",
 		"menubar.selectionBackground": "#965fd4",
-		"menubar.selectionForeground": "#734f9a"
+		"menubar.selectionForeground": "#734f9a",
+
+		"statusBar.background": "#1f1f1f",
+		"statusBar.foreground": "#cccc00",
+		"statusBar.border": "#cccc00",
+
+		// Status bar colors when no folder is open
+		"statusBar.noFolderBackground": "#442244",
+		"statusBar.noFolderForeground": "#ffffff",
+
+		// Status bar colors while debugging
+		"statusBar.debuggingBackground": "#1f1f1f",
+		"statusBar.debuggingForeground": "#f44336"
 	},
 	"tokenColors": [
 		{
