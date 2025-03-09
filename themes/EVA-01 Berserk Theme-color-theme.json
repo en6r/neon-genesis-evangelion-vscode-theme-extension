@@ -66,7 +66,7 @@
 		"listFilterWidget.outline": "#00cc00",
 		/*************************************************/
 
-		"tab.hoverForeground": "#ec0000",
+		"tab.hoverForeground": "#004400",
 		"tab.activeForeground": "#13ff1e",
 		"tab.activeBackground": "#1d1a2f",
 		"tab.inactiveForeground": "#13ff1e",
