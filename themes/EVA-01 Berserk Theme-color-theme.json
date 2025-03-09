@@ -13,19 +13,17 @@
 
 		"focusBorder": "#88ff88",
 
+		"editorLineNumber.foreground": "#466b5a",
+		"editorLineNumber.activeForeground": "#88ff88",    
+
 		"editor.background": "#1c182c",
 		"editor.foreground": "#13ff1e",
-		// "editorCursor.foreground": "#ec0000",
-		// "editor.selectionBackground": "#5a0101",
-		// "editor.lineHighlightBackground": "#5a0909",
 		"editorCursor.foreground": "#13ff1e",
 		"editor.selectionBackground": "#174f19",
 		"editor.lineHighlightBackground": "#174f19",
 
-		
 		"activityBarBadge.background": "#965fd4",
 		"activityBarBadge.foreground": "#ffffff",
-
 		"activityBar.background": "#1d1a2f",
 		"activityBar.foreground": "#13ff1e",
 		"activityBar.inactiveForeground": "#734f9a",
@@ -38,21 +36,20 @@
 		"sideBar.background": "#1d1a2f",
 		"sideBar.border": "#13ff1e",
 		"sideBarSectionHeader.border": "#13ff1e",
-
-		/* mess with these */
 		"sideBar.dropBackground": "#0c0c0c",
-		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.background": "#004400",
 		"sideBarSectionHeader.foreground": "#00cc00",
-		/* mess with these */
 
-		"list.activeSelectionBackground": "#965fd4", 
+		"list.activeSelectionBackground": "#004400", 
 		"list.activeSelectionForeground": "#ffffff",
 		"list.focusAndSelectionOutline": "#e2e3e2",
 		"list.activeSelectionIconForeground": "#13ff1e", 
 		"list.focusOutline": "#13ff1e",
 		"list.inactiveSelectionForeground": "#13ff1e",
+		"list.hoverBackground": "#004400",
+		"list.hoverForeground": "#00cc00",
 
-		/* mess with these */
+		/********** not sure what these do *************/
 		"list.deemphasizedForeground": "#008800",
 		"list.dropBackground": "#0c0c0c",
 		"list.errorForeground": "#b40000",
@@ -60,8 +57,6 @@
 		"list.focusBackground": "#0c0c0c",
 		"list.focusForeground": "#00cc00",
 		"list.highlightForeground": "#88ff88",
-		"list.hoverBackground": "#004400",
-		"list.hoverForeground": "#ddffdd",
 		"list.inactiveFocusBackground": "#080808",
 		"list.inactiveSelectionBackground": "#002200",
 		"list.invalidItemForeground": "#b40000",
@@ -69,8 +64,7 @@
 		"listFilterWidget.background": "#000000",
 		"listFilterWidget.noMatchesOutline": "#003300",
 		"listFilterWidget.outline": "#00cc00",
-		/* mess with these */
-
+		/*************************************************/
 
 		"tab.hoverForeground": "#ec0000",
 		"tab.activeForeground": "#13ff1e",
@@ -103,9 +97,9 @@
 		"menubar.selectionBackground": "#965fd4",
 		"menubar.selectionForeground": "#734f9a",
 
-		"statusBar.background": "#1f1f1f",
-		"statusBar.foreground": "#cccc00",
-		"statusBar.border": "#cccc00",
+		"statusBar.background": "#1d1a2f",
+		"statusBar.foreground": "#965fd4",
+		"statusBar.border": "#13ff1e",
 
 		// Status bar colors when no folder is open
 		"statusBar.noFolderBackground": "#442244",
@@ -113,7 +107,38 @@
 
 		// Status bar colors while debugging
 		"statusBar.debuggingBackground": "#1f1f1f",
-		"statusBar.debuggingForeground": "#f44336"
+		"statusBar.debuggingForeground": "#f44336",
+
+		/* terminal */
+		"terminal.background": "#1d1a2f",
+		"terminal.foreground": "#00FF00",
+		"terminalCursor.foreground": "#00FF00",
+		"terminalCursor.background": "#174f19",
+		"terminal.selectionBackground": "#174f19",
+		"panel.border": "#00FF00",
+		"panelTitle.activeBorder": "#00FF00",
+		"panelTitle.inactiveForeground": "#965fd4",
+		"panelTitle.activeForeground": "#00FF00",
+		"panelSectionHeader.foreground": "#00ff00",
+		"icon.foreground": "#965fd4",
+
+		// ANSI Colors
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiRed": "#cd3131",
+		"terminal.ansiGreen": "#0DBC79",
+		"terminal.ansiYellow": "#e5e510",
+		"terminal.ansiBlue": "#2472c8",
+		"terminal.ansiMagenta": "#bc3fbc",
+		"terminal.ansiCyan": "#11a8cd",
+		"terminal.ansiWhite": "#e5e5e5",
+		"terminal.ansiBrightBlack": "#666666",
+		"terminal.ansiBrightRed": "#f14c4c",
+		"terminal.ansiBrightGreen": "#23d18b",
+		"terminal.ansiBrightYellow": "#00FF00", // hacked for command issue
+		"terminal.ansiBrightBlue": "#3b8eea",
+		"terminal.ansiBrightMagenta": "#d670d6",
+		"terminal.ansiBrightCyan": "#29b8db",
+		"terminal.ansiBrightWhite": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -255,7 +280,7 @@
 				"constant.numeric",
 			],
 			"settings": {
-				"foreground": "#fcfffc"
+				"foreground": "#f5c024"
 			}
 		},
 		{
