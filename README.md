@@ -22,3 +22,7 @@ built for C/C++ and python syntax
  please feel free to suggest changes and fixes on the repository [issues](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/issues) page or reach out directly via any platform listed on my github profile
 
 > [change log](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/blob/main/CHANGELOG.md)
+
+## license
+
+This project is licensed under the [MIT License](LICENSE)
