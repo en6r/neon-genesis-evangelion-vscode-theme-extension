@@ -1,20 +1,50 @@
 {
-  "name": "engr-eva01-berserk-theme",
-  "displayName": "eva unit-01 berserk theme",
-  "description": "EVA unit-01 berserk mode theme for VScode",
-  "version": "0.0.1",
+  "name": "eva-unit-01-berserk-theme",
+  "displayName": "evangelion unit-01 berserk theme",
+  "description": "Visual Studio Code color theme inspired by EVA Unit-01 from the \"Neon Genesis Evangelion\" TV series.",
+  "publisher": "engr",
+  "version": "0.1.0",
+  "icon": "images/eva01.png",
   "engines": {
     "vscode": "^1.93.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "themes",
+    "dark-theme",
+    "color-theme",
+    "Neon Genesis Evangelion",
+    "EVA Unit-01",
+    "purple",
+    "green"
+  ],
+  "galleryBanner": {
+    "color": "#0c0c0c",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "engr",
+    "email": "engr.log@gmail.com",
+    "url": "https://github.com/engrx0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engrx0/eva-unit01-berserk-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/engrx0/eva-unit01-berserk-vscode-theme/issues",
+    "email": "engr.log@gmail.com"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "EVA-01 Berserk Theme",
+        "label": "EVA Unit-01 Berserk",
         "uiTheme": "vs-dark",
-        "path": "./themes/EVA-01 Berserk Theme-color-theme.json"
+        "path": "./themes/eva-unit01-berserk-color-theme.json"
       }
     ]
   }

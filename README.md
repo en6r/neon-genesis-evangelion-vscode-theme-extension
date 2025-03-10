@@ -1,16 +1,24 @@
-# engr-eva01-berserk-theme README
+# evangelion unit-01 berserk theme 💜💚
 
-## Working with Markdown
+develop in [berserk mode](https://www.youtube.com/watch?v=-olPXm8oJyw) with this evangelion unit-01 (エヴァンゲリオン初号機) inspired theme from the tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![berserk](images/eva01-berserk.GIF, "go berserk")
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## preview
 
-## For more information
+built for C/C++ and python syntax
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## installation
+1. install and launch [Visual Studio Code](https://code.visualstudio.com/)
+2. *Settings* > *Extensions* (or `Ctrl+Shift+X`)
+3. search for `evangelion unit-01 berserk theme`
+4. click *Install*
+5. *Settings* > *Themes* > *Color Theme* > *Matrix Theme*
+
+## issues & feedback
+ 
+ please feel free to suggest changes and fixes on the repository [issues](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/issues) page or reach out directly via any platform listed on my github profile
+
+
+> [change log](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/blob/main/CHANGELOG.md)
