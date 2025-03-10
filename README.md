@@ -2,12 +2,13 @@
 
 develop in [berserk mode](https://www.youtube.com/watch?v=-olPXm8oJyw) with this evangelion unit-01 (エヴァンゲリオン初号機) inspired theme from the tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
 
-![berserk](images/eva01-berserk.GIF, "go berserk")
+![berserk](images/berserk.gif "go berserk")
 
 ## preview
 
 built for C/C++ and python syntax
 
+![sample](images/sample.png)
 
 ## installation
 1. install and launch [Visual Studio Code](https://code.visualstudio.com/)

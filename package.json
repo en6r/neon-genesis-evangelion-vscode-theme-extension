@@ -4,7 +4,7 @@
   "description": "Visual Studio Code color theme inspired by EVA Unit-01 from the \"Neon Genesis Evangelion\" TV series.",
   "publisher": "engr",
   "version": "0.1.0",
-  "icon": "images/eva01.png",
+  "icon": "images/01.png",
   "engines": {
     "vscode": "^1.93.0"
   },

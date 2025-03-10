@@ -4,11 +4,7 @@
 #include <algorithm>
 
 // This is a single-line comment
-
-/*
- * Multi-line comment to test comment styling in the theme
- */
-
+/* this is a comment too */
 
 constexpr int MAX_VALUE = 100;
 
@@ -38,11 +34,11 @@ public:
 
 template <typename T>
 T square(const T &value) {
-    return value * value; // Testing template and arithmetic operations
+    return value * value; // testing template and arithmetic operations
 }
 
 int main() {
-    std::cout << "Testing VSCode Theme for C++" << std::endl;
+    std::cout << "testing VSCode theme for C++" << std::endl;
 
     Example example(1, "VSCode Theme");
     example.display();
@@ -53,9 +49,9 @@ int main() {
     std::cout << "Square of " << value << " is " << square(value) << std::endl;
 
     if (value > 5) {
-        std::cout << "Value is greater than 5" << std::endl;
+        std::cout << "value is greater than 5" << std::endl;
     } else {
-        std::cout << "Value is less than or equal to 5" << std::endl;
+        std::cout << "value is less than or equal to 5" << std::endl;
     }
 
     return 0;
