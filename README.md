@@ -1,8 +1,8 @@
 # evangelion unit-01 berserk theme 💜💚
 
-develop in [berserk mode](https://www.youtube.com/watch?v=-olPXm8oJyw) with this evangelion unit-01 (エヴァンゲリオン初号機) inspired theme from the tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
+develop in [berserk mode](https://www.youtube.com/watch?v=-olPXm8oJyw) with this evangelion unit-01 (エヴァンゲリオン初号機) inspired theme from the tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion) 
 
-![berserk](images/berserk.gif "go berserk")
+![berserk](images/berserk01.gif "go berserk")
 
 ## preview
 
@@ -20,6 +20,5 @@ built for C/C++ and python syntax
 ## issues & feedback
  
  please feel free to suggest changes and fixes on the repository [issues](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/issues) page or reach out directly via any platform listed on my github profile
-
 
 > [change log](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/blob/main/CHANGELOG.md)
