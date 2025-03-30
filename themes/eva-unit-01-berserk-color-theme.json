@@ -219,7 +219,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#9f68dd"
+				"foreground": "#6ee974"
 			}
 		},
 		{
@@ -364,7 +364,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#b443ca"
+				"foreground": "#6893d5"
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 		{
 			"scope": "meta.member.access.python",
 			"settings": {
-			  "foreground": "#b443ca"
+			  "foreground": "#965fd4"
 			}
 		},
 		{
