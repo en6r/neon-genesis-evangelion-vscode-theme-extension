@@ -1,7 +1,11 @@
 # Change Log
 
-All notable changes to the "eva01-berserk-theme" extension will be documented in this file.
+All notable changes to the "neon-genesis-evangelion-themes" extension are documented here.
+
+## [0.1.1]
+
+- update extension to be a theme set
 
 ## [0.1.0]
 
-- Initial release
+- initial release

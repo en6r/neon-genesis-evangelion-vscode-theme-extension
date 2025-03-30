@@ -1,7 +1,7 @@
 {
-  "name": "eva-unit-01-berserk-theme",
-  "displayName": "evangelion unit-01 berserk theme",
-  "description": "Visual Studio Code color theme inspired by EVA Unit-01 from the \"Neon Genesis Evangelion\" TV series.",
+  "name": "neon-genesis-evangelion-themes",
+  "displayName": "Neon Genesis Evangelion Themes",
+  "description": "A \"Neon Genesis Evangelion\" inspired UI theme set.",
   "publisher": "engr",
   "license": "MIT",
   "version": "0.1.0",
@@ -45,7 +45,7 @@
       {
         "label": "EVA Unit-01 Berserk",
         "uiTheme": "vs-dark",
-        "path": "./themes/eva-unit01-berserk-color-theme.json"
+        "path": "./themes/eva-unit-01-berserk-color-theme.json"
       }
     ]
   }
