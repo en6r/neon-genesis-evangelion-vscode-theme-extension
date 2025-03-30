@@ -1,7 +1,7 @@
 {
 	"name": "EVA Unit-01 Berserk Theme",
 	"displayName": "EVA Unit-01 Berserk",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "engr",
 	"settings": {
 		"window.titleBarStyle": "custom",
@@ -16,11 +16,22 @@
 		"editorLineNumber.foreground": "#466b5a",
 		"editorLineNumber.activeForeground": "#88ff88",    
 
+		"editorCursor.foreground": "#88ff88",
+
 		"editor.background": "#1c182c",
-		"editor.foreground": "#13ff1e",
-		"editorCursor.foreground": "#13ff1e",
+		"editor.foreground": "#6ee974",
 		"editor.selectionBackground": "#174f19",
 		"editor.lineHighlightBackground": "#174f19",
+
+		"editorBracketHighlight.foreground1": "#6ee974",
+		"editorBracketHighlight.foreground2": "#6ee974",
+		"editorBracketHighlight.foreground3": "#6ee974",
+		"editorBracketHighlight.foreground4": "#6ee974",
+		"editorBracketHighlight.foreground5": "#6ee974",
+		"editorBracketHighlight.foreground6": "#6ee974",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#b40000",
+		"editorBracketMatch.background": "#174f19",
+		"editorBracketMatch.border": "#13ff1e",
 
 		"activityBarBadge.background": "#965fd4",
 		"activityBarBadge.foreground": "#ffffff",
@@ -78,16 +89,6 @@
 
 		"button.background": "#13ff1e",
 		"button.foreground": "#000000",
-
-		"editorBracketHighlight.foreground1": "#00cc00",
-		"editorBracketHighlight.foreground2": "#00cc00",
-		"editorBracketHighlight.foreground3": "#00cc00",
-		"editorBracketHighlight.foreground4": "#00cc00",
-		"editorBracketHighlight.foreground5": "#00cc00",
-		"editorBracketHighlight.foreground6": "#00cc00",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#b40000",
-		"editorBracketMatch.background": "#13ff1e",
-		"editorBracketMatch.border": "#13ff1e",
 
 		"titleBar.activeBackground": "#1d1a2f",
 		"titleBar.activeForeground": "#13ff1e",
@@ -159,7 +160,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#13ff1e"
+				"foreground": "#6ee974"
 			}
 		},
 		{
@@ -252,7 +253,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#734f9a"
+				"foreground": "#9443f0"
 			}
 		},
 		{
@@ -280,7 +281,7 @@
 				"constant.numeric",
 			],
 			"settings": {
-				"foreground": "#f5c024"
+				"foreground": "#fffffe"
 			}
 		},
 		{
@@ -294,7 +295,7 @@
 			"name": "Function Arguments",
 			"scope": "variable.parameter",
 			"settings": {
-			  "foreground": "#13ff1e"
+			  "foreground": "#6893d5"
 			}
 		},
 		{
@@ -317,7 +318,7 @@
 
 			],
 			"settings": {
-				"foreground": "#f5c024"
+				"foreground": "#f6ba4b"
 			}
 		},
 		{
@@ -331,7 +332,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f5c024"
+				"foreground": "#f6ba4b"
 			}
 		},
 		{
@@ -347,7 +348,14 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#b443ca"
+				"foreground": "#9443f0"
+			}
+		},
+		{
+			"name": "C++ Namespace",
+			"scope": "entity.name.namespace",
+			"settings": {
+			  "foreground": "#965fd4"
 			}
 		},
 		{
@@ -500,7 +508,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#13ff1e"
+				"foreground": "#6ee974"
 			}
 		},
 		{
@@ -707,7 +715,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#466b5a"
 			}
 		},
 		{
