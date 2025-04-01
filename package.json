@@ -5,7 +5,7 @@
   "publisher": "engr",
   "license": "MIT",
   "version": "0.1.0",
-  "icon": "images/01.png",
+  "icon": "images/eva_icon.png",
   "engines": {
     "vscode": "^1.93.0"
   },
