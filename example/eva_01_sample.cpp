@@ -38,8 +38,7 @@ int main() {
     EvaUnit01 エヴァンゲリオン初号機;
     エヴァンゲリオン初号機.pilot("Shinji Ikari");
     エヴァンゲリオン初号機.synchronize();
+    エヴァンゲリオン初号機.engage("Sachiel");
     エヴァンゲリオン初号機.berserk();
-    std::cout << "[ EVA-01 ] Mission Start." << std::endl;
-
     return 0;
 }
