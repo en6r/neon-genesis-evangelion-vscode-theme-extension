@@ -5,7 +5,7 @@
   "publisher": "engr",
   "license": "MIT",
   "version": "0.1.0",
-  "icon": "images/eva_icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -20,8 +20,12 @@
     "color-theme",
     "Neon Genesis Evangelion",
     "EVA Unit-01",
+    "Evangelion",
+    "EVA",
     "purple",
-    "green"
+    "green",
+    "エヴァンゲリオン初号機",
+    "新世紀エヴァンゲリオン"
   ],
   "galleryBanner": {
     "color": "#0c0c0c",

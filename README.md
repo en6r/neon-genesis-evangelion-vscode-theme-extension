@@ -2,7 +2,7 @@
 
 The `Neon Genesis Evangelion Themes` extension provides color themes and a file icon theme inspired by Evangelion Unit-00, Unit-01, and Unit-02 from the beloved tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
 
-![eva-team](images/eva-team.jpg "gang")
+![eva-team](images/eva_gang.jpg "gang")
 
 ## EVA Unit-00
 > coming in v0.3.0
@@ -11,11 +11,7 @@ The `Neon Genesis Evangelion Themes` extension provides color themes and a file 
 
 Develop in [<span style="color:red">BERSERK MODE</span>](https://www.youtube.com/watch?v=-olPXm8oJyw) with this EVA Unit-01 (エヴァンゲリオン初号機) color theme
 
-![berserk](images/berserk01.gif "go berserk")
-
-### Preview
-
-![sample](images/sample.png)
+![berserk](images/eva_01_demo.gif "go berserk")
 
 ## EVA Unit-02
 > coming in v0.2.0

@@ -112,8 +112,6 @@
 
 		/* terminal */
 
-		"terminal.integrated.cursor.blinking": true,
-
 		"terminal.background": "#1d1a2f",
 		"terminal.border": "#00FF00",
 		"terminal.foreground": "#6ee974",
