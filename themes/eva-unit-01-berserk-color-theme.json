@@ -111,8 +111,17 @@
 		"statusBar.debuggingForeground": "#f44336",
 
 		/* terminal */
+
+		"terminal.integrated.cursor.blinking": true,
+
 		"terminal.background": "#1d1a2f",
-		"terminal.foreground": "#00FF00",
+		"terminal.border": "#00FF00",
+		"terminal.foreground": "#6ee974",
+		
+		"terminalCommandDecoration.defaultBackground": "#6ee974",
+		"terminalCommandDecoration.successBackground": "#6ee974",
+		"terminalCommandDecoration.errorBackground": "#6ee974",
+
 		"terminalCursor.foreground": "#00FF00",
 		"terminalCursor.background": "#174f19",
 		"terminal.selectionBackground": "#174f19",
@@ -123,23 +132,6 @@
 		"panelSectionHeader.foreground": "#00ff00",
 		"icon.foreground": "#965fd4",
 
-		// ANSI Colors
-		"terminal.ansiBlack": "#000000",
-		"terminal.ansiRed": "#cd3131",
-		"terminal.ansiGreen": "#0DBC79",
-		"terminal.ansiYellow": "#e5e510",
-		"terminal.ansiBlue": "#2472c8",
-		"terminal.ansiMagenta": "#bc3fbc",
-		"terminal.ansiCyan": "#11a8cd",
-		"terminal.ansiWhite": "#e5e5e5",
-		"terminal.ansiBrightBlack": "#666666",
-		"terminal.ansiBrightRed": "#f14c4c",
-		"terminal.ansiBrightGreen": "#23d18b",
-		"terminal.ansiBrightYellow": "#00FF00", // hacked for command issue
-		"terminal.ansiBrightBlue": "#3b8eea",
-		"terminal.ansiBrightMagenta": "#d670d6",
-		"terminal.ansiBrightCyan": "#29b8db",
-		"terminal.ansiBrightWhite": "#ffffff"
 	},
 	"tokenColors": [
 		{
