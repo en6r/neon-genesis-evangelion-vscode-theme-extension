@@ -1,6 +1,7 @@
 # Neon Genesis Evangelion Themes
 
-The `Neon Genesis Evangelion Themes` extension provides color themes and a file icon theme inspired by Evangelion Unit-00, Unit-01, and Unit-02 from the beloved tv series [Neon Geneis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/engr.neon-genesis-evangelion-themes?color=blue&style=for-the-badge)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/engr.neon-genesis-evangelion-themes?color=purple&label=Downloads&style=for-the-badge)
 
 ![eva-team](images/eva_gang.jpg "gang")
 
