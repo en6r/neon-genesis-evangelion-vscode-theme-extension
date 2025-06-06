@@ -4,7 +4,7 @@
   "description": "A \"Neon Genesis Evangelion\" inspired UI theme set.",
   "publisher": "engr",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.93.0"
@@ -20,11 +20,15 @@
     "color-theme",
     "Neon Genesis Evangelion",
     "EVA Unit-01",
+    "EVA Unit-02",
     "Evangelion",
     "EVA",
+    "red",
+    "orange",
     "purple",
     "green",
     "エヴァンゲリオン初号機",
+    "エヴァンゲリオン弐号機",
     "新世紀エヴァンゲリオン"
   ],
   "galleryBanner": {
@@ -50,6 +54,11 @@
         "label": "EVA Unit-01 Berserk",
         "uiTheme": "vs-dark",
         "path": "./themes/eva-unit-01-berserk-color-theme.json"
+      },
+      {
+        "label": "EVA Unit-02",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eva-unit-02-color-theme.json"
       }
     ]
   }

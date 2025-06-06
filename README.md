@@ -11,20 +11,20 @@ The `Neon Genesis Evangelion Themes` extension provides color themes and a file 
 
 Develop in [<span style="color:red">BERSERK MODE</span>](https://www.youtube.com/watch?v=-olPXm8oJyw) with this EVA Unit-01 (エヴァンゲリオン初号機) color theme
 
-![berserk](images/eva_01_demo.gif "go berserk")
+![berserk](images/eva_01_demo.jpg "go berserk")
 
-## EVA Unit-02
-> coming in v0.2.0
+## EVA Unit-02 ❤️‍🔥
 
-## File Icon Theme
-> coming in v0.4.0
+Honor the [<span style="color:red">death of Asuka and Unit 02</span>](https://www.youtube.com/watch?v=OO-1Yyi5KPY) with this EVA Unit-02 (エヴァンゲリオン弐号機) color theme
+
+![unit02](images/eva_02_demo.jpg "unit02")
 
 ## Installation
 1. Install and launch [Visual Studio Code](https://code.visualstudio.com/)
 2. *Settings* > *Extensions* (or `Ctrl+Shift+X`)
 3. Search for `Neon Genesis Evangelion Themes`
 4. Click *Install*
-5. *Settings* > *Themes* > *Color Theme* > `EVA Unit-01 Berserk`
+5. *Settings* > *Themes* > *Color Theme* >  `EVA Unit-01 Berserk` \ `EVA Unit-02`
 
 ## Issues & Feedback
  
