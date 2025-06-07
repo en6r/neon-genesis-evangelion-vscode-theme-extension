@@ -38,14 +38,14 @@
   "author": {
     "name": "engr",
     "email": "engr.log@gmail.com",
-    "url": "https://github.com/en6r"
+    "url": "https://github.com/engrx0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/en6r/neon-genesis-evangelion-vscode-theme-extension"
+    "url": "https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension"
   },
   "bugs": {
-    "url": "https://github.com/en6r/neon-genesis-evangelion-vscode-theme-extension/issues",
+    "url": "https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/issues",
     "email": "engr.log@gmail.com"
   },
   "contributes": {
